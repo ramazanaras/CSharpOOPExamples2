@@ -1,0 +1,14 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\bin\Debug\oop_restorantuygulamasi.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\bin\Debug\oop_restorantuygulamasi.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\bin\Debug\oop_restorantuygulamasi.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.Anaform.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.UrunForm.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.SalonForm.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.SiparisForm.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.MasaListeForm.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_restorantuygulamasi\oop_restorantuygulamasi\obj\Debug\oop_restorantuygulamasi.MasaDetayForm.resources

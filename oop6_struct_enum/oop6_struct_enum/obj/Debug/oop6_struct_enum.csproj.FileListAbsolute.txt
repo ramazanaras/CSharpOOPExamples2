@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\bin\Debug\oop6_struct_enum.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\bin\Debug\oop6_struct_enum.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\bin\Debug\oop6_struct_enum.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\obj\Debug\oop6_struct_enum.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\obj\Debug\oop6_struct_enum.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\obj\Debug\oop6_struct_enum.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\obj\Debug\oop6_struct_enum.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\obj\Debug\oop6_struct_enum.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop6_struct_enum\oop6_struct_enum\obj\Debug\oop6_struct_enum.pdb

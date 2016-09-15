@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop10_events", "oop10_events\oop10_events.csproj", "{D3BBB89F-0280-41BF-96A5-C85C6B381A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BBB89F-0280-41BF-96A5-C85C6B381A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BBB89F-0280-41BF-96A5-C85C6B381A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BBB89F-0280-41BF-96A5-C85C6B381A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BBB89F-0280-41BF-96A5-C85C6B381A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

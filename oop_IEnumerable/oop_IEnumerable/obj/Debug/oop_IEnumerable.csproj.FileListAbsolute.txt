@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\bin\Debug\oop_IEnumerable.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\bin\Debug\oop_IEnumerable.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\bin\Debug\oop_IEnumerable.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\obj\Debug\oop_IEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\obj\Debug\oop_IEnumerable.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\obj\Debug\oop_IEnumerable.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\obj\Debug\oop_IEnumerable.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\obj\Debug\oop_IEnumerable.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_IEnumerable\oop_IEnumerable\obj\Debug\oop_IEnumerable.pdb

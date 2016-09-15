@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\bin\Debug\oop1_oopnedir.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\bin\Debug\oop1_oopnedir.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\bin\Debug\oop1_oopnedir.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\obj\Debug\oop1_oopnedir.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\obj\Debug\oop1_oopnedir.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\obj\Debug\oop1_oopnedir.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\obj\Debug\oop1_oopnedir.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\obj\Debug\oop1_oopnedir.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\obj\Debug\oop1_oopnedir.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop1_oopnedir\oop1_oopnedir\obj\Debug\oop1_oopnedir.Personeller.resources

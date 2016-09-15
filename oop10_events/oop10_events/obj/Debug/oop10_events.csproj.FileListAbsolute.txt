@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\bin\Debug\oop10_events.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\bin\Debug\oop10_events.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\bin\Debug\oop10_events.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\obj\Debug\oop10_events.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\obj\Debug\oop10_events.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\obj\Debug\oop10_events.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\obj\Debug\oop10_events.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\obj\Debug\oop10_events.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_events\oop10_events\obj\Debug\oop10_events.pdb

@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\bin\Debug\oop9_interface_oyuncakci.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\bin\Debug\oop9_interface_oyuncakci.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\bin\Debug\oop9_interface_oyuncakci.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\obj\Debug\oop9_interface_oyuncakci.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\obj\Debug\oop9_interface_oyuncakci.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\obj\Debug\oop9_interface_oyuncakci.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\obj\Debug\oop9_interface_oyuncakci.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\obj\Debug\oop9_interface_oyuncakci.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface_oyuncakci\oop9_interface_oyuncakci\obj\Debug\oop9_interface_oyuncakci.pdb

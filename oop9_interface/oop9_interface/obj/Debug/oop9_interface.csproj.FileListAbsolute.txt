@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\bin\Debug\oop9_interface.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\obj\Debug\oop9_interface.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\obj\Debug\oop9_interface.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\obj\Debug\oop9_interface.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\obj\Debug\oop9_interface.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\bin\Debug\oop9_interface.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\bin\Debug\oop9_interface.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\obj\Debug\oop9_interface.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop9_interface\oop9_interface\obj\Debug\oop9_interface.pdb

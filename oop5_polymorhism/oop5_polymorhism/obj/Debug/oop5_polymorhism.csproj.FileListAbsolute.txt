@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\bin\Debug\oop5_polymorhism.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\bin\Debug\oop5_polymorhism.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\bin\Debug\oop5_polymorhism.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\obj\Debug\oop5_polymorhism.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\obj\Debug\oop5_polymorhism.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\obj\Debug\oop5_polymorhism.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\obj\Debug\oop5_polymorhism.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\obj\Debug\oop5_polymorhism.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop5_polymorhism\oop5_polymorhism\obj\Debug\oop5_polymorhism.pdb

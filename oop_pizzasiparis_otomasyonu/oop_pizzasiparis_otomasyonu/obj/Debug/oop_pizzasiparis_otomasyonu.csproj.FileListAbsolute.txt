@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\bin\Debug\oop_pizzasiparis_otomasyonu.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\bin\Debug\oop_pizzasiparis_otomasyonu.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\bin\Debug\oop_pizzasiparis_otomasyonu.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\obj\Debug\oop_pizzasiparis_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\obj\Debug\oop_pizzasiparis_otomasyonu.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\obj\Debug\oop_pizzasiparis_otomasyonu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\obj\Debug\oop_pizzasiparis_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\obj\Debug\oop_pizzasiparis_otomasyonu.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_pizzasiparis_otomasyonu\oop_pizzasiparis_otomasyonu\obj\Debug\oop_pizzasiparis_otomasyonu.pdb

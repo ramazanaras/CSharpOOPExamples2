@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\bin\Debug\oop8_abstract.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\obj\Debug\oop8_abstract.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\obj\Debug\oop8_abstract.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\obj\Debug\oop8_abstract.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\obj\Debug\oop8_abstract.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\bin\Debug\oop8_abstract.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\bin\Debug\oop8_abstract.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\obj\Debug\oop8_abstract.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop8_abstract\oop8_abstract\obj\Debug\oop8_abstract.pdb

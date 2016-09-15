@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\bin\Debug\oop7_static.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\bin\Debug\oop7_static.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\bin\Debug\oop7_static.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\obj\Debug\oop7_static.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\obj\Debug\oop7_static.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\obj\Debug\oop7_static.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\obj\Debug\oop7_static.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop7_static\oop7_static\obj\Debug\oop7_static.pdb

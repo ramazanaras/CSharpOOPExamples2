@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\bin\Debug\oop_otopark_otomasyonu.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\bin\Debug\oop_otopark_otomasyonu.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\bin\Debug\oop_otopark_otomasyonu.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\obj\Debug\oop_otopark_otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\obj\Debug\oop_otopark_otomasyonu.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\obj\Debug\oop_otopark_otomasyonu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\obj\Debug\oop_otopark_otomasyonu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\obj\Debug\oop_otopark_otomasyonu.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\obj\Debug\oop_otopark_otomasyonu.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop_otopark_otomasyonu\oop_otopark_otomasyonu\obj\Debug\oop_otopark_otomasyonu.Rapor.resources

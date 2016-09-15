@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\bin\Debug\oop10_delegate.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\bin\Debug\oop10_delegate.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\bin\Debug\oop10_delegate.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\obj\Debug\oop10_delegate.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\obj\Debug\oop10_delegate.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\obj\Debug\oop10_delegate.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\obj\Debug\oop10_delegate.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\obj\Debug\oop10_delegate.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_delegate\oop10_delegate\obj\Debug\oop10_delegate.pdb

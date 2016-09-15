@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\bin\Debug\oop10_asyncronousdelegates.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\bin\Debug\oop10_asyncronousdelegates.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\bin\Debug\oop10_asyncronousdelegates.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\obj\Debug\oop10_asyncronousdelegates.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\obj\Debug\oop10_asyncronousdelegates.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\obj\Debug\oop10_asyncronousdelegates.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\obj\Debug\oop10_asyncronousdelegates.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop10_asyncronousdelegates\oop10_asyncronousdelegates\obj\Debug\oop10_asyncronousdelegates.pdb

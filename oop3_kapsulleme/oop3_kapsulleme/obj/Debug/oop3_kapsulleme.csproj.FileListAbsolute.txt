@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\bin\Debug\oop3_kapsulleme.exe.config
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\bin\Debug\oop3_kapsulleme.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\bin\Debug\oop3_kapsulleme.pdb
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\obj\Debug\oop3_kapsulleme.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\obj\Debug\oop3_kapsulleme.Form1.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\obj\Debug\oop3_kapsulleme.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\obj\Debug\oop3_kapsulleme.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\obj\Debug\oop3_kapsulleme.exe
+C:\Users\RAMAZAN\Desktop\oop-ornekleri\oop3_kapsulleme\oop3_kapsulleme\obj\Debug\oop3_kapsulleme.pdb
